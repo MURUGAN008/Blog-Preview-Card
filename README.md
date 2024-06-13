@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://murugan008.github.io/Blog-Preview-Card/]
+- Live Site URL: [Click Here!](https://murugan008.github.io/Blog-Preview-Card/)
 
 ## My Process
 
