@@ -54,5 +54,5 @@ Users should be able to:
 ```
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MURUGAN008](https://www.frontendmentor.io/profile/MURUGAN008)
 
